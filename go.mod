@@ -1,4 +1,4 @@
-module mail-merge-go
+module github.com/dilaragorum/mail-merge-go
 
 go 1.19
 
